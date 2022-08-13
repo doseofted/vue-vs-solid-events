@@ -9,4 +9,4 @@ In Vue, you can add events to the same HTML element from multiple components. Ho
 1. Install dependencies: `pnpm install`
 2. Start both Vue/Solid projects: `pnpm dev` (two browser tabs will be opened)
 3. Open developer tools to see `console.logs`
-4. Toggle [`useDivAsComponent` in Solid](./events-solid/src/index.tsx#L6) and [`useDivAsComponent` in Vue](./events-vue/src/Inner.vue#L3) to see differences in behavior.
+4. Toggle [`useDivAsComponent` in Solid](./events-solid/src/index.tsx#L5) and [`useDivAsComponent` in Vue](./events-vue/src/Inner.vue#L3) to see differences in behavior.
